@@ -1,0 +1,77 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "external \"react\"": 0,
+      "external \"next/link\"": 1,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!components/MyLayout.js 9da2b15424546543f60230952e52ea43": 2,
+      "external \"next/router\"": 3,
+      "multi ./pages/about.js": 4,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/about.js": 5,
+      "multi ./pages/index.js": 6,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js": 7,
+      "multi ./pages/post.js": 8,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/post.js": 9,
+      "multi node_modules/next/dist/pages/_app.js": 10,
+      "node_modules/next/dist/pages/_app.js": 11,
+      "external \"next/app\"": 12,
+      "multi node_modules/next/dist/pages/_error.js": 13,
+      "node_modules/next/dist/pages/_error.js": 14,
+      "external \"next/error\"": 15,
+      "multi node_modules/next/dist/pages/_document.js": 16,
+      "node_modules/next/dist/pages/_document.js": 17,
+      "external \"next/document\"": 18
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/Xut9DhnAmZcb7ShJwJZmq/pages/about.js": 0,
+      "static/Xut9DhnAmZcb7ShJwJZmq/pages/index.js": 1,
+      "static/Xut9DhnAmZcb7ShJwJZmq/pages/post.js": 2,
+      "static/Xut9DhnAmZcb7ShJwJZmq/pages/_app.js": 3,
+      "static/Xut9DhnAmZcb7ShJwJZmq/pages/_error.js": 4,
+      "static/Xut9DhnAmZcb7ShJwJZmq/pages/_document.js": 5,
+      "static/LXB7WT8y9ONMNG5m9rFH3/pages/about.js": 6,
+      "static/LXB7WT8y9ONMNG5m9rFH3/pages/index.js": 7,
+      "static/LXB7WT8y9ONMNG5m9rFH3/pages/post.js": 8,
+      "static/LXB7WT8y9ONMNG5m9rFH3/pages/_app.js": 9,
+      "static/LXB7WT8y9ONMNG5m9rFH3/pages/_error.js": 10,
+      "static/LXB7WT8y9ONMNG5m9rFH3/pages/_document.js": 11,
+      "static/Bs5UnMjvv9b7E7fOxDCcB/pages/about.js": 0,
+      "static/Bs5UnMjvv9b7E7fOxDCcB/pages/index.js": 1,
+      "static/Bs5UnMjvv9b7E7fOxDCcB/pages/post.js": 2,
+      "static/Bs5UnMjvv9b7E7fOxDCcB/pages/_app.js": 3,
+      "static/Bs5UnMjvv9b7E7fOxDCcB/pages/_error.js": 4,
+      "static/Bs5UnMjvv9b7E7fOxDCcB/pages/_document.js": 5
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+}
